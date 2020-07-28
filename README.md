@@ -4,7 +4,7 @@ You can view the presentation for this Dashboard :
 
 https://youtu.be/2eajk0ZtIls
 
-You can find the datasets under : "datasets" folder
+You can find the Data files used for this project under : "datasets" section.
 
 
 
